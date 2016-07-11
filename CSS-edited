@@ -1,0 +1,18 @@
+/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/
+/*
+Remove site info ("proudly powered etc...")
+*/
+.site-info {
+	display: none;
+}
+
+/*
+Remove "full sive view" in Carousel"
+*/
+.jp-carousel-image-meta {
+	display: none;
+}
